@@ -44,7 +44,8 @@
   
 <h2>MATERI 3: INTENT</h2>
 <h5>Project Intent ini kita membuat sebuah form registrasi untuk kita isi biodata kita, 
-dimana jika kita mengklik button Send Data maka kita berpindah activity yang akan menampilkan data yang tadi kita isi.
+dimana jika kita mengklik button Send Data maka kita berpindah activity yang akan menampilkan data yang tadi kita isi. Namun disini saya belum berhasil untuk memasukkan data email, tempat tanggal lahir, dan negara.
   </h5>
 <img src="1.jpg" height="600px" width="300px">
+<img src="2.jpg" height="600px" width="300px">
 
